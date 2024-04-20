@@ -1,0 +1,41 @@
+.box {
+  display: flex;
+  height: 500px;
+
+  background-color: aquamarine;
+}
+
+.div1 {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(94, 244, 7);
+  position: absolute;
+}
+
+.div2 {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(7, 35, 244);
+}
+
+.div3 {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(244, 7, 228);
+}
+
+.div4 {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(244, 197, 7);
+}
+
+.select {
+  background-color: rgb(233, 12, 12);
+}
+
+/* .div5 {
+  height: 400px;
+  width: 400px;
+  background-color: rgb(244, 197, 7);
+} */
